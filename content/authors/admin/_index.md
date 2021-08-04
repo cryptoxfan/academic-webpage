@@ -1,39 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Xinxin Fan
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Head of Cryptography
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: IoTeX
+  url: https://iotex.io/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include .
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Applied Cryptography
+- Blockchain and Cryptocurrency
+- Cloud Security
+- IoT Security
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Electrical and Computer Engineering
+    institution: University of Waterloo
+    year: 2010
+  - course: MEng in Information System and Telecommunications Engineering
+    institution: Xidian University
+    year: 2005
+  - course: BSc in Applied Mathematics
+    institution: Xidian University
+    year: 2002
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
