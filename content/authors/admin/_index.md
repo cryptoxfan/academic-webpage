@@ -46,16 +46,16 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/cryptoxfan
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.ca/citations?user=dUyyDX4AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/cryptoxfan
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/xinxin-fan-crypto
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -71,8 +71,6 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Xinxin Fan is the Head of Cryptography at [IoTeX](https://iotex.io/), a startup focusing on building the next-generation blockchain infrastructure for the Internet of Trusted Things (IoTT). He is responsible for directing the company's strategy and product roadmap as well as developing the core technologies and IP portfolio. Before joining IoTeX, he was a senior research engineer of the Security and Privacy Group at [Bosch Research Technology Center North America](https://www.bosch.us/our-company/innovation/). Dr. Xinxin Fan received his Ph.D. in Electrical and Computer Engineering from the [University of Waterloo](https://uwaterloo.ca/) in 2010. He is also a Certified Information Systems Security Professional (CISSP) from [(ISC)²](https://www.isc2.org/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
