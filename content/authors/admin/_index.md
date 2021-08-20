@@ -14,7 +14,7 @@ organizations:
   url: https://iotex.io/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include .
+bio: Cryptographer | Entrepreneur | Speaker | Practitioner
 
 # Interests to show in About widget
 interests:
