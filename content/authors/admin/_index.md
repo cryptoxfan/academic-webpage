@@ -67,10 +67,10 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
-# Highlight the author in author lists? (true/false)
+# Highlight the author in author lists? (true/false) 
 highlight_name: false
 ---
 
 Dr. Xinxin Fan is the Head of Cryptography at [IoTeX](https://iotex.io/), a startup focusing on building the next-generation blockchain infrastructure for the Internet of Trusted Things (IoTT). He is responsible for directing the company's strategy and product roadmap as well as developing the core technologies and IP portfolio. Before joining IoTeX, he was a senior research engineer of the Security and Privacy Group at [Bosch Research Technology Center North America](https://www.bosch.us/our-company/innovation/). Dr. Xinxin Fan received his Ph.D. in Electrical and Computer Engineering from the [University of Waterloo](https://uwaterloo.ca/) in 2010. He is also a Certified Information Systems Security Professional (CISSP) from [(ISC)²](https://www.isc2.org/).
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
