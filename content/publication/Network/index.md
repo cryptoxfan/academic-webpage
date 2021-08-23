@@ -7,7 +7,7 @@ authors:
 - Xinxin Fan
 - Taeweon Suh
 - Weidong Shi
-date: "2021-09-01T00:00:00Z"
+
 doi: "10.1109/MNET.001.1900136"
 
 # Schedule page publish date (NOT publication's date).
