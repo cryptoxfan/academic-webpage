@@ -4,7 +4,7 @@ authors:
 - Lei Xu
 - Lin Chen
 - Zhimin Gao
-- Xinxin Fan
+- admin
 - Taeweon Suh
 - Weidong Shi
 
