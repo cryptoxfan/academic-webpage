@@ -10,7 +10,7 @@ authors:
 - Nour Diallo
 - Weidong Shi
 
-date: "2020-03-01T00:00:00Z"
+date: "2020-02-03T00:00:00Z"
 doi: "10.1109/MCE.2019.2953734"
 
 # Publication type.
