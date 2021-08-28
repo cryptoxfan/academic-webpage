@@ -8,7 +8,7 @@ authors:
 - Taeweon Suh
 - Weidong Shi
 
-date: "2020-01-01T00:00:00Z"
+date: "2020-01-31T00:00:00Z"
 doi: "10.1109/MNET.001.1900136"
 
 # Publication type.
