@@ -27,5 +27,5 @@ abstract: The smart device owning rate such as smart phone and smart watch is hi
 
 links:
 - name: Best Paper Award
-  url_pdf: https://github.com/cryptoxfan/academic-webpage/blob/master/content/publication/Mobilepay/Award.pdf
+  url: Mobilepay/Award.pdf
 ---
