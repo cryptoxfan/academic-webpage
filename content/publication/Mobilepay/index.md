@@ -27,5 +27,5 @@ abstract: The smart device owning rate such as smart phone and smart watch is hi
 
 links:
 - name: Best Paper Award
-  url: https://shorturl.at/oEFMP
+  url_pdf: https://shorturl.at/oEFMP
 ---
