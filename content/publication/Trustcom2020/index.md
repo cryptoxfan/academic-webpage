@@ -9,7 +9,7 @@ authors:
 - Taeweon Suh
 - Weidong Shi
 
-date: "2021-02-09T00:00:00Z"
+date: "2020-12-29T00:00:00Z"
 doi: "10.1109/TrustCom50675.2020.00137"
 
 # Publication type.
