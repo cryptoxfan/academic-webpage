@@ -1,5 +1,5 @@
 ---
-title: "MULTAV: A Multi-Chain Token Backed Voting Framework for Decentralized Blockchain Governance"
+title: "DIAM-IoT: A Decentralized Identity and Access Management Framework for Internet of Things"
 authors:
 - admin
 - Qi Chai
