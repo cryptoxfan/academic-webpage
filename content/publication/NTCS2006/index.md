@@ -17,4 +17,6 @@ publication_types: ["6"]
 publication: "*Chapter 7 in New Trends in Cryptographic Systems*"
 publication_short: ""
 
+abstract: The efficient implementations of cryptographic algorithms is the key for applications. There are environments where inversions are extremely time and space critical, for example embedded processors. Although multiplications are optimized there, divisions are very slow. For elliptic curve case, one can turn to several inversion-free systems, like projective, Jacobian, Chudnovsky Jacobian, modified Jacobian and
+mixed coordinates. 
 ---
