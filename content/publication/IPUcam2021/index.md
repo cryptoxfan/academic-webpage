@@ -27,6 +27,6 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
- - name: Patent
+ - name: Patent Application
    url: https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PG01&s1=%22Fan,+Xinxin%22&OS=%22Fan,+Xinxin%22&RS=%22Fan,+Xinxin%22
 ---
