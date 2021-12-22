@@ -1,0 +1,29 @@
+---
+title: "Method and system for fuzzy keyword search over encrypted data"
+
+authors:
+- admin
+- Qingji Zheng
+
+date: "2021-12-16T00:00:00Z"
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["8"]
+
+# Publication name and optional abbreviated publication name.
+publication: "United States Patent 11023477"
+publication_short: ""
+
+abstract: A method for performing a fuzzy search in encrypted data includes receiving an encrypted search token corresponding to a search keyword with an untrusted server computing device and generating inner product values based on a function-hiding inner product encryption operation of the encrypted query vectors encrypted node vectors in an encrypted tree stored in the memory of the untrusted server computing device. The method further includes transmitting, with the untrusted server computing device, the encrypted keyword stored in the leaf node to a client computing device in response to the first inner product value exceeding a first predetermined similarity threshold corresponding to a similarity of the first query vector to the leaf node vector, the fuzzy search not revealing plaintext contents for any of a keyword stored in the leaf node, the search keyword, or a fuzziness parameter.
+
+# Display this page in the Featured widget?
+featured: true
+
+# Custom links (uncomment lines below)
+links:
+ - name: Patent
+   url: https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=%22Fan,+Xinxin%22&OS=%22Fan,+Xinxin%22&RS=%22Fan,+Xinxin%22
+---
