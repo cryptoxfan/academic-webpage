@@ -4,7 +4,7 @@ title: "Searchable Symmetric Encryption System and Method of Processing Inverted
 authors:
 - Qingji Zheng
 - admin
--  Jorge Guajardo Merchan
+- Jorge Guajardo Merchan
 
 date: "2019-06-20T00:00:00Z"
 
