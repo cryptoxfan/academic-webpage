@@ -36,8 +36,8 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/cryptoxfan
-#- name: Slides
-#  url: event/IoTDeviceSecurity2021/Devicesecurity.pdf
-url_slides: static/Devicesecurity.pdf
+- name: Prsentation
+  url: event/iotdevicesecurity2021/Devicesecurity.pdf
+#url_slides: static/Devicesecurity.pdf
 url_video: https://iotdevicesecurityconference.com/on-demand-sessions.php
 ---
