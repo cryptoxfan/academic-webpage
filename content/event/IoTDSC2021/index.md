@@ -30,6 +30,8 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/cryptoxfan
+url_code: ""
+url_pdf: ""
 url_slides: uploads/IoTDSC2021.pdf
 url_video: https://iotdevicesecurityconference.com/on-demand-sessions.php
 ---
