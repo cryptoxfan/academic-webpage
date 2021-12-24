@@ -38,6 +38,6 @@ links:
   url: https://twitter.com/cryptoxfan
 #- name: Prsentation
 #  url: event/iotdevicesecurity2021/Devicesecurity.pdf
-url_slides: https://github.com/cryptoxfan/academic-webpage/blob/master/content/event/IoTDeviceSecurity2021/Devicesecurity.pdf
+url_slides: uploads/Devicesecurity.pdf
 url_video: https://iotdevicesecurityconference.com/on-demand-sessions.php
 ---
