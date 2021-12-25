@@ -4,14 +4,14 @@ title: A Blockchain Perspective to IoT Device Security
 event: IoT Device Security Conference
 event_url: https://iotdevicesecurityconference.com/
 
-location: Vitual
+location: Virtual
 
 summary: A talk about IoT device security - today, tomorrow and future
 abstract: In this presentation, Dr. Xinxin Fan will first explain how to use blockchain to enhance security of IoT devices across their entire lifecycle, followed by an introduction of the ongoing standardization effort undertaken by the IEEE P2958 Identity of Things Working Group (https://sagroups.ieee.org/2958/). Finally, Dr. Fan will describe the application of blockchain-based security techniques for protecting real-world home IP camera systems. This presentation aims to bring new perspectives to many security challenges facing by IoT systems today.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-11-09"
+date: "2021-11-09T09:00:00Z"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
@@ -20,10 +20,6 @@ all_day: false
 
 # Is this a featured talk? (true/false)
 featured: false
-
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-#  focal_point: Right
 
 links:
 - icon: twitter
