@@ -28,6 +28,6 @@ links:
   url: https://twitter.com/cryptoxfan
 url_code: ""
 url_pdf: ""
-url_slides: uploads/IoTWorld2021.pdf
+url_slides: uploads/IoTWorld2020.pdf
 url_video: https://www.youtube.com/watch?v=m98JC8_WXTw
 ---
