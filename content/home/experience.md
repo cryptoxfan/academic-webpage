@@ -22,28 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Head of Research/Chief Cryptography Officer 
+  - title: Head of Cryptography 
     company: IoTeX
     company_url: 'https://iotex.io/'
     company_logo: org-iotex
-    location: California
-    date_start: '2018-02-24'
+    location: Menlo Park, California
+    date_start: '2018-02-26'
     date_end: ''
     #description: |2-
-    #    Responsibilities include:
-        
+    #    Responsibilities include:   
     #    * Analysing
     #    * Modelling
     #    * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Senior Research Engineer
+    company: Bosch Research and Technology Center North America
+    company_url: 'https://www.bosch.us/our-company/innovation/'
+    company_logo: org-bosch
+    location: Pittsburgh, Pennsylvania
+    date_start: '2014-11-20'
+    date_end: '2018-02-23'
+    #description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
