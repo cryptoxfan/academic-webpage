@@ -28,7 +28,7 @@ item:
   date_end: ""
   date_start: "2021-01-25"
   description: ""
-  organization: Industry IoT Consortium
+  organization: IIC
   organization_url: https://www.iiconsortium.org/
   title: Neural Networks and Deep Learning
   url: ""
