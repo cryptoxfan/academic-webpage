@@ -24,14 +24,19 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
-  description: ""
+- date_end: ""
+  date_start: "2020-02-01"
+  description: "The Industrial Distributed Ledger Task Group is responsible for the creation, maintenance and adoption of technical documents addressing industrial distributed ledger technologies. 
+  
+  Responsibilities include:   
+      * Analysing
+      * Modelling
+      * Deploying
+  "
   organization: IIC
   organization_url: https://www.iiconsortium.org/
-  title: Neural Networks and Deep Learning
-  url: ""
+  title: Co-Chair, Industrial Distributed Ledger Task Group
+  url: "https://www.iiconsortium.org/wc-security.htm"
 - certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2021-01-01"
