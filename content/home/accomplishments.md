@@ -26,8 +26,8 @@ date_format: Jan 2006
 item:
 - date_end: ""
   date_start: "2020-02-01"
-  description: |2-
-  "The Industrial Distributed Ledger Task Group is responsible for the creation, maintenance and adoption of technical documents addressing industrial distributed ledger technologies.
+  description: "|2-
+  The Industrial Distributed Ledger Task Group is responsible for the creation, maintenance and adoption of technical documents addressing industrial distributed ledger technologies.
   Responsibilities include:   
     * Analysing
     * Modelling
