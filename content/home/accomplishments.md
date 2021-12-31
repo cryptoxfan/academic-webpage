@@ -45,6 +45,20 @@ item:
   organization_url: http://www.dlt.mobi
   title: Working Group Member
   url: "https://dlt.mobi/mobi-working-groups/"
+- date_end: ""
+  date_start: "2021-01-01"
+  description: "The IEEE 2418.1 Standards Working Group provides a common framework for blockchain usage, implementation, and interaction with the Internet of Things (IoT). The framework addresses items such as security and privacy challenges with regards to Blockchain in IoT. Both permissioned IoT blockchain and permissionless IoT blockchain will be included in the framework."
+  organization: IEEE SA
+  organization_url: https://standards.ieee.org/
+  title: Vice Chair, IEEE P2418.1 Standards Working Group
+  url: "https://sagroups.ieee.org/2418-1/"
+- date_end: ""
+  date_start: "2020-12-01"
+  description: "The IEEE P2958 Standards Working Group defines a decentralized identity and access management (IAM) framework for the Internet of Things (IoT) based on the emerging concepts such as decentralized identifiers (DIDs) and verifiable credentials (VCs). The framework addresses the integration of DIDs and VCs into the lifecycle of IoT devices as well as the decentralized IoT security services such as device authentication, data authorization and access control."
+  organization: IEEE SA
+  organization_url: https://standards.ieee.org/
+  title: Chair, IEEE P2958 Standards Working Group
+  url: "https://sagroups.ieee.org/2958/"
 
 design:
   columns: '2' 
