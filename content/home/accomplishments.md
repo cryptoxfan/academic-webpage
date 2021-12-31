@@ -38,14 +38,13 @@ item:
   organization_url: https://confidentialcomputing.io/
   title: Technical Advisory Council Member
   url: "https://confidentialcomputing.io/wp-content/uploads/sites/85/2019/12/CCC_Overview.pdf"
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+- date_end: ""
+  date_start: "2021-08-01"
+  description: "MOBI is a nonprofit alliance of many of the world’s largest vehicle manufacturers, along with many startups, NGOs, transit agencies, insurers, toll road providers, smart city leaders, and technology companies working to accelerate adoption and promote standards in blockchain, distributed ledgers, and related technologies."
+  organization: MOBI
+  organization_url: http://www.dlt.mobi
+  title: Working Group Member
+  url: "https://dlt.mobi/mobi-working-groups/"
 
 design:
   columns: '2' 
