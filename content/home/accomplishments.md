@@ -31,14 +31,13 @@ item:
   organization_url: https://www.iiconsortium.org/
   title: Co-Chair, Industrial Distributed Ledger Task Group
   url: "https://www.iiconsortium.org/wc-security.htm"
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+- date_end: ""
+  date_start: "2020-03-01"
+  description: "The Confidential Computing Consortium (CCC) brings together hardware vendors, cloud providers, and software developers to accelerate the adoption of Trusted Execution Environment (TEE) technologies and standards."
+  organization: CCC
+  organization_url: https://confidentialcomputing.io/
+  title: Technical Advisory Council Member
+  url: "https://confidentialcomputing.io/wp-content/uploads/sites/85/2019/12/CCC_Overview.pdf"
 - certificate_url: https://www.datacamp.com
   date_end: "2020-12-21"
   date_start: "2020-07-01"
