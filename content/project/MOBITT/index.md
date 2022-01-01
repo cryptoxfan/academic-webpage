@@ -1,6 +1,6 @@
 ---
 title: MOBI Trusted Trip Credential - Business Requirements & Technical Specifications
-summary: A Mobility Open Blockchain Initiative (MOBI) standard describes the business requirments and technical specifications for building the MOBI Trust Trip
+summary: A Mobility Open Blockchain Initiative (MOBI) standard describing the business requirments and technical specifications for building the MOBI Trust Trip
 tags:
 - DID 
 date: "2021-10-28T00:00:00Z"
