@@ -23,6 +23,7 @@ interests:
 - Web 3
 - Cloud Security
 - IoT Security
+- Confidential Computing
 
 # Education to show in About widget
 education:
