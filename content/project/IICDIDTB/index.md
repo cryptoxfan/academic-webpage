@@ -16,4 +16,4 @@ links:
 url_pdf: "https://www.iiconsortium.org/pdf/IIC-Edge-DID-Tech-Brief.pdf"
 
 ---
-This tech brief describes how to create a unified, interoperable and tamper-proof device identity registry on top of the blockchain by introducing DIDs and VCs into the lifecycle of IoT devices.
+This tech brief describes how to create a unified, interoperable and tamper-proof device identity registry on top of the blockchain by introducing decentralized identifiers (DIDs) and verifiable credentials (VCs) into the lifecycle of IoT devices.
