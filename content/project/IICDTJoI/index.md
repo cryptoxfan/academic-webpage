@@ -2,7 +2,7 @@
 title: Digital Transformation in Practice - Learning from IIC Deployments
 summary: An Industrial IoT Consortium's (IIC) Journal of Innovation article providing valuable insights into digtial transformation for IIoT
 tags:
-- DID 
+- IIoT 
 date: "2021-11-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
