@@ -10,10 +10,10 @@ main:
   - name: Publications
     url: '#featured'
     weight: 20
-  - name: Posts
+  - name: Media Coverage
     url: '#posts'
     weight: 30
-  - name: Projects
+  - name: Industry Contributions
     url: '#projects'
     weight: 40
   - name: Talks
