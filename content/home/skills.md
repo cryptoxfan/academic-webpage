@@ -19,21 +19,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  company: University of Waterloo
-  company_url: 'https://uwaterloo.ca/'
-  company_logo: org-uw
-  #icon: r-project
-  #icon_pack: fab
-  #name: R
-- description: 100%
-  icon: chart-line
+- #description: 90%
+  icon: key
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: Applied Cryptography
+- #description: 100%
+  icon: user-shield
   icon_pack: fas
-  name: Photography
+  name: Privacy-Enhaching Technology
+- #description: 10%
+  icon: fingerprint
+  icon_pack: fas
+  name: Decentralized Identity
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
