@@ -33,11 +33,11 @@ feature:
   name: Decentralized Identity
 - #description: 
   icon: browser
-  icon_pack: far
+  icon_pack: fas
   name: Web 3.0 
 - #description: 
   icon: router
-  icon_pack: far
+  icon_pack: fas
   name: IoT 
 
 
