@@ -36,12 +36,12 @@ feature:
   icon_pack: fas
   name: Decentralized Identity 
 - #description: 
-  icon: btc
-  icon_pack: far
+  icon: dollar-sign
+  icon_pack: fas
   name: Cryptocurrency
 - #description: 
-  icon: hubspot
-  icon_pack: far
+  icon: industry
+  icon_pack: fas
   name: IoT 
 
 
