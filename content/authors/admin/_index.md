@@ -20,7 +20,7 @@ bio: Cryptographer | Entrepreneur | Speaker | Practitioner
 interests:
 - Applied Cryptography
 - Blockchain and Cryptocurrency
-- Web 3
+- Web 3.0
 - Cloud Security
 - IoT Security
 - Confidential Computing

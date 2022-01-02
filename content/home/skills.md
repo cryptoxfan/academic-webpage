@@ -19,18 +19,31 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- #description: 90%
+- #description: 
   icon: key
   icon_pack: fas
   name: Applied Cryptography
-- #description: 100%
+- #description: 
   icon: user-shield
   icon_pack: fas
-  name: Privacy-Enhaching Technology
-- #description: 10%
+  name: Privacy-Enhancing Technology
+- #description: 
   icon: fingerprint
   icon_pack: fas
   name: Decentralized Identity
+- #description: 
+  icon: browser
+  icon_pack: fas
+  name: Web 3.0
+- #description: 
+  icon: browser
+  icon_pack: fas
+  name: Web 3.0  
+- #description: 
+  icon: router
+  icon_pack: fas
+  name: IoT 
+
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
