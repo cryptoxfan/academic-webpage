@@ -22,21 +22,25 @@ feature:
 - #description: 
   icon: key
   icon_pack: fas
-  name: Applied Cryptography
+  name: Cryptography
 - #description: 
-  icon: user-shield
+  icon: network-wired
   icon_pack: fas
-  name: Privacy-Enhancing Technologies
+  name: Web 3.0
+- #description: 
+  icon: cubes
+  icon_pack: fas
+  name: Blockchain
 - #description: 
   icon: fingerprint
   icon_pack: fas
-  name: Decentralized Identity
+  name: Decentralized Identity 
 - #description: 
-  icon: browser
+  icon: btc
   icon_pack: fas
-  name: Web 3.0 
+  name: Cryptocurrency
 - #description: 
-  icon: router
+  icon: hubspot
   icon_pack: fas
   name: IoT 
 
