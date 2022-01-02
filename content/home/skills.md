@@ -26,22 +26,18 @@ feature:
 - #description: 
   icon: user-shield
   icon_pack: fas
-  name: Privacy-Enhancing Technology
+  name: Privacy-Enhancing Technologies
 - #description: 
   icon: fingerprint
   icon_pack: fas
   name: Decentralized Identity
 - #description: 
   icon: browser
-  icon_pack: fas
-  name: Web 3.0
-- #description: 
-  icon: browser
-  icon_pack: fas
-  name: Web 3.0  
+  icon_pack: far
+  name: Web 3.0 
 - #description: 
   icon: router
-  icon_pack: fas
+  icon_pack: far
   name: IoT 
 
 
