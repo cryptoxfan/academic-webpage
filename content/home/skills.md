@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Core Skills
 subtitle:
 
 # Showcase personal skills or business features.
@@ -37,11 +37,11 @@ feature:
   name: Decentralized Identity 
 - #description: 
   icon: btc
-  icon_pack: fas
+  icon_pack: far
   name: Cryptocurrency
 - #description: 
   icon: hubspot
-  icon_pack: fas
+  icon_pack: far
   name: IoT 
 
 
