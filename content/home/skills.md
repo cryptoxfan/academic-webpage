@@ -22,7 +22,7 @@ feature:
 - #description: 
   icon: key
   icon_pack: fas
-  name: Applied ryptography
+  name: Applied Cryptography
 - #description: 
   icon: network-wired
   icon_pack: fas
