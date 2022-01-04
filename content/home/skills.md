@@ -24,6 +24,14 @@ feature:
   icon_pack: fas
   name: Applied Cryptography
 - #description: 
+  icon: user-shield
+  icon_pack: fas
+  name: Privacy-Enhancing Technologies
+- #description: 
+  icon: fingerprint
+  icon_pack: fas
+  name: Decentralized Identity 
+- #description: 
   icon: network-wired
   icon_pack: fas
   name: Web 3.0
@@ -32,17 +40,21 @@ feature:
   icon_pack: fas
   name: Blockchain
 - #description: 
-  icon: fingerprint
-  icon_pack: fas
-  name: Decentralized Identity 
-- #description: 
   icon: dollar-sign
   icon_pack: fas
   name: Cryptocurrency
 - #description: 
   icon: industry
   icon_pack: fas
-  name: IoT 
+  name: IoT Security
+- #description: 
+  icon: cloud
+  icon_pack: fas
+  name: Cloud Security
+- #description: 
+  icon: server
+  icon_pack: fas
+  name: Confidential Computing 
 
 
 # Uncomment to use emoji icons.
