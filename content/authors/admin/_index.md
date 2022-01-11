@@ -19,7 +19,8 @@ bio: Cryptographer | Entrepreneur | Speaker | Practitioner
 # Interests to show in About widget
 interests:
 - Applied Cryptography
-- Blockchain and Cryptocurrency
+- Blockchain
+- Cryptocurrency 
 - Web 3.0
 - Cloud Security
 - IoT Security
