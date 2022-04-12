@@ -59,6 +59,13 @@ item:
   organization_url: https://standards.ieee.org/
   title: Chair, IEEE P2958 Standards Working Group
   url: "https://sagroups.ieee.org/2958/"
+- date_end: ""
+  date_start: "2022-02-04"
+  description: "Forbes Business Council is an invitation-only organization for successful small and mid-sized business owners. Members are respected leaders and executives who are selected for the council based on the depth and diversity of experience in leadership, management, customer engagement, technology and growth."
+  organization: Forbes Business Council
+  organization_url: https://councils.forbes.com/
+  title: Forbes Councils Member
+  url: "https://www.forbes.com/sites/forbesbusinesscouncil/people/xinxinfan/?sh=5beb7ae23119"
 
 design:
   columns: '2' 
