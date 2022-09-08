@@ -4,7 +4,7 @@ summary: An Industrial IoT Consortium (IIC) whitepaper about existing and emergi
 tags:
 - Identity
 - Blockchain 
-date: "2020-08-23T00:00:00Z"
+date: "2022-08-23T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 #external_link: ""
