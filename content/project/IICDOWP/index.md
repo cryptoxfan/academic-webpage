@@ -14,7 +14,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/cryptoxfan
-url_pdf: "https://www.iiconsortium.org/iic-automated-onboarding-paper-form/"
+url_pdf: "https://www.iiconsortium.org/wp-content/uploads/sites/2/2022/10/Automated-Onboarding-and-Device-Provisioning-Best-Practices-2022-10-04-v0.3.12.pdf"
 
 ---
 The whitepaper is intended for system integrators, service providers, and those who implement industrial IoT solutions, the paper offers security best practices and guidance for automated device onboarding and provisioning. 
