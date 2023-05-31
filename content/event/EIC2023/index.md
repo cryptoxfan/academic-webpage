@@ -4,7 +4,7 @@ title: When SSI Meets IoT - Challenges and Opportunities
 event: European Identity and Cloud Conference 2023 (EIC 2023)
 event_url: https://www.kuppingercole.com/events/eic2023
 
-location: Virtual
+location: In-Person/Virtual
 
 summary: A talk about challenges and opportunities for applying SSI for IoT
 abstract: In this session, I will first talk about the design considerations and challenges when applying SSI to IoT, followed by the description of an initiative for creating an embedded SDK for SSI. Finally, I will discuss new opportunities for building decentralized identity and access management solutions for IoT.
