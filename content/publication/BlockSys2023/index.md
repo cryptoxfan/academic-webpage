@@ -5,7 +5,7 @@ authors:
 - Lei Xu
 
 date: "2023-11-12T00:00:00Z"
-doi: "doi.org/10.1145/3628354.3629534"
+doi: "10.1145/3628354.3629534"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
