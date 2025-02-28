@@ -25,6 +25,7 @@ interests:
 - Cloud Security
 - IoT Security
 - Confidential Computing
+- Artificial Intelligence
 
 # Education to show in About widget
 education:
@@ -74,4 +75,4 @@ social:
 highlight_name: true
 ---
 
-Dr. Xinxin Fan is the Founding Member and Head of Cryptography at [IoTeX](https://iotex.io/), a startup empowering the future [Decentralized Physical Infrastructure Networks (DePINs)](https://en.wikipedia.org/wiki/Decentralized_physical_infrastructure_network) and [Machine Economy](https://machinefi.com/) with innovative combination of **Blockchain**, **Internet of Things (IoT)**, and **Artificial Intelligence (AI)**. He is responsible for directing the company's strategy and product roadmap as well as developing the core technologies and IP portfolio. Before joining IoTeX, he was a Senior Research Engineer of the Security and Privacy Group at [Bosch Research Technology Center North America](https://www.bosch.us/our-company/innovation/). Dr. Xinxin Fan received his Ph.D. in Electrical and Computer Engineering from the [University of Waterloo](https://uwaterloo.ca/) in 2010. He is also a Certified Information Systems Security Professional (CISSP) from [(ISC)²](https://www.isc2.org/).
+Dr. Xinxin Fan is the Founding Member and Head of Cryptography at [IoTeX](https://iotex.io/), a startup empowering the future [Decentralized Physical Infrastructure Networks (DePINs)](https://en.wikipedia.org/wiki/Decentralized_physical_infrastructure_network) and [Machine Economy](https://machinefi.com/) with innovative combination of **Blockchain**, **Internet of Things (IoT)**, and **Artificial Intelligence (AI)**. He is responsible for directing the company's strategy and product roadmap as well as developing the core technologies and IP portfolio. Before joining IoTeX, he was a Senior Research Engineer of the Security and Privacy Group at [Bosch Research Technology Center North America](https://www.bosch.us/our-company/innovation/). Dr. Xinxin Fan received his Ph.D. in Electrical and Computer Engineering from the [University of Waterloo](https://uwaterloo.ca/) in 2010. He is also a [Certified Information Systems Security Professional (CISSP)](https://en.wikipedia.org/wiki/Certified_Information_Systems_Security_Professional) from [(ISC)²](https://www.isc2.org/).
